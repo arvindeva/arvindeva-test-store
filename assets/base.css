@@ -2317,7 +2317,6 @@ product-info .loading__spinner:not(.hidden) ~ *,
 .header-wrapper {
   display: block;
   position: relative;
-  background-color: red;
 }
 
 .header-wrapper--border-bottom {
@@ -2421,7 +2420,6 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .header__heading-link .h2 {
   line-height: 1;
-  color: white;
 }
 
 .header__heading-logo {
