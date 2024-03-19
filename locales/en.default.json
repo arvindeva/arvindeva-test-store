@@ -256,7 +256,7 @@
       }
     },
     "404": {
-      "title": "Page not found",
+      "title": "Sorry, but it seems we can’t find the page you’re looking for.",
       "subtext": "404"
     }
   },
