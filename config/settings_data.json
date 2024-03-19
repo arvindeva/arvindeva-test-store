@@ -2,9 +2,9 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/Touhou_Project_logo.png",
     "logo_width": 60,
-    "type_header_font": "basic_commercial_n4",
+    "type_header_font": "inknut_antiqua_n4",
     "heading_scale": 120,
-    "type_body_font": "basic_commercial_n4",
+    "type_body_font": "inknut_antiqua_n4",
     "body_scale": 120,
     "page_width": 1400,
     "spacing_sections": 8,
