@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to my store!",
+            "heading": "<strong>Seasonal Sale<\/strong>",
             "heading_size": "h0"
           }
         },
@@ -35,8 +35,9 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/764022.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -135,7 +136,7 @@
       ],
       "settings": {
         "heading": "Multimedia collage",
-        "heading_size": "h2",
+        "heading_size": "h0",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
