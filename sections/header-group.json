@@ -2,6 +2,38 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "announcement_bar_UwDya9": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_WgtBdc": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
+        "announcement_4mBLna": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WgtBdc",
+        "announcement_4mBLna"
+      ],
+      "settings": {
+        "color_scheme": "scheme-d2de991f-3d49-437a-9020-46313d96a742",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -22,6 +54,7 @@
     }
   },
   "order": [
+    "announcement_bar_UwDya9",
     "header"
   ]
 }
